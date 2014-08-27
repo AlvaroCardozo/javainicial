@@ -228,7 +228,7 @@ public class Course {
                 course.imprimirClasificacion();
             }
         }
-        System.out.println("Chau!");
+        System.out.println("Chau!!!!");
         
     }
 }
